@@ -1,4 +1,5 @@
 Git diff compares current version to staged version.Can branch off of
 master branch to test code and not affect the master copy.
 
+
 Added a different line to master version.
